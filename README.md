@@ -1,4 +1,3 @@
-<img width="998" height="734" alt="image" src="https://github.com/user-attachments/assets/a0cb01e8-5118-41ad-b577-3da628587ade" /># IPL Data Engineering Project
 
 ## Overview
 This project is an end-to-end IPL Data Engineering pipeline built using Python, PostgreSQL, SQL, and Streamlit.
@@ -39,7 +38,7 @@ CSV Dataset
 - Interactive dashboard
 
 ---
-[Uploading image.png…]()
+<img width="998" height="734" alt="image" src="https://github.com/user-attachments/assets/a0cb01e8-5118-41ad-b577-3da628587ade" /># IPL Data Engineering Project
 
 ## How to Run
 
